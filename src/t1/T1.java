@@ -17,6 +17,7 @@ public class T1 {
     public static void main(String[] args) {
         LenguajeER leng = new LenguajeER();
         leng.imprimir();
+        System.out.println("Hello World");
     }
     
 }
